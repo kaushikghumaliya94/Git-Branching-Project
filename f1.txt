@@ -3,3 +3,5 @@
 New file Created by Feature-1
 
 Some Code changed by Feature-1
+
+Some Minor Changed in code by HotFix
